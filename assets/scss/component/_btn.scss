@@ -1,0 +1,12 @@
+@use '../utils' as *;
+
+
+.tc-btn{
+    color: #fff;
+    font-size: 18px;
+    padding: 16px 32px;
+    border-radius: 5px;
+    display: inline-block;
+    font-family: var(--tc-heading-fonts);
+    background-color: var(--tc-theme-color);
+}
